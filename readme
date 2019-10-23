@@ -1,4 +1,5 @@
-Field Selection for the ZTF Uniform-Depth Survey
--> Dependencies for the notebooks
+## Field Selection for the ZTF Uniform-Depth Survey
+
+### Dependencies for the notebooks
  astropy, astroplan 
 
